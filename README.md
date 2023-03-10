@@ -1,0 +1,1 @@
+# ineractive-rating-component
